@@ -1,0 +1,15 @@
+.mainBlock{
+    height: 90vh;
+    background: rgba(139, 168, 51, 0.6);
+}
+.text{
+    background: #9592a0;
+    width: 300px;
+    border: 1px solid;
+}
+.photo{
+    width: 300px;
+    height: 400px;
+    background: #9592a0;
+    border: 1px solid;
+}

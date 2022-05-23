@@ -1,0 +1,24 @@
+.footer{
+
+}
+.footerContainer{
+    flex-direction: column;
+    justify-content: center;
+}
+.author{}
+.copyrights{}
+.socNetworks{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.socNetworks a{
+    display: block;
+    transform: rotate(45deg);
+    width: 30px;
+    height: 30px;
+    background: #333    ;
+    color: whitesmoke;
+    text-decoration: none;
+}

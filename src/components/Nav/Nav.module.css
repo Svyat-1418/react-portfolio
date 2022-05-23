@@ -1,0 +1,10 @@
+.nav{
+    width: 240px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+.nav a{
+    color: whitesmoke;
+    text-decoration: none;
+}

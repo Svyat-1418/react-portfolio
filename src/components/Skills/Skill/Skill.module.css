@@ -1,0 +1,22 @@
+.skill{
+    width: 250px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(175, 63, 93, 0.6);
+    text-align: center;
+    word-wrap: normal;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    background: #5069af;
+}
+.title{
+    color: whitesmoke;
+    padding: 10px;
+    background: #878724;
+}
+description{}

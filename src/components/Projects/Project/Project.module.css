@@ -1,0 +1,27 @@
+.project{
+    width: 300px;
+    background: #59d644;
+    display: flex;
+    flex-direction: column;
+
+    text-align: center;
+}
+.image{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1a6c0c;
+}
+.title{
+    color: whitesmoke;
+    padding: 10px;
+    background: #878724;
+}
+.viewBtn{
+    background: #279c9c;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 10px;
+}
+.description{}
